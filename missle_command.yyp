@@ -645,6 +645,63 @@
                 "resourcePath": "objects\\obj_explosion\\obj_explosion.yy",
                 "resourceType": "GMObject"
             }
+        },
+        {
+            "Key": "7805f39c-2c52-4f64-a383-79fd3fb386a7",
+            "Value": {
+                "id": "d857af89-651d-48a6-9bde-aa71b0f68c6e",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_enemy_missile\\obj_enemy_missile.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d53e0135-cc0b-4466-bec3-64ad655bedb8",
+            "Value": {
+                "id": "75f6eb16-cb9b-4763-a7fd-1c52e95eb076",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_missile_spawner\\obj_missile_spawner.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "d9f02c9f-15e5-408a-8886-95eca8b58205",
+            "Value": {
+                "id": "3e21b8e5-83f0-4220-870b-1d19c2f4ece2",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\\obj_target\\obj_target.yy",
+                "resourceType": "GMObject"
+            }
         }
     ],
     "room_order": [

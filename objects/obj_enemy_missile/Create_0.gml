@@ -1,7 +1,7 @@
 /// @description Setup
-speed = 8;
+speed = 2;
 depth = -10;
-color = c_blue;
+color = c_red;
 
 originX = x;
 originY = y;

@@ -1,4 +1,7 @@
 /// @description Draw shots
+if(!isAlive){
+	return;
+}
 
 for(var i=0; i<shotsLeft; i++){
 	var yPos = y;

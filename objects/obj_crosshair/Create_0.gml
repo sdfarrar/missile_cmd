@@ -1,4 +1,5 @@
 /// @description Setup
+minHeight = 625;
 window_set_cursor(cr_none);
 
 missileSilos = [];
